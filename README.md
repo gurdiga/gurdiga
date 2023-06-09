@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on my first SaaS: [FeedSubscription.com][0]. Go check it out! 😇
 - 🤔 I’m looking for help with ideas on how to better market it.
 - 📧 How to reach me: gurdiga@gmail.com.
-- ✍️ I’m writing at [gurdiga.com][1] — it got a face-lift recently, so do check it ou. 😎
+- ✍️ I’m writing at [gurdiga.com][1] — it got a face-lift recently, so do check it out. 😎
 
 [0]: https://feedsubscription.com/
 [1]: https://gurdiga.com/
