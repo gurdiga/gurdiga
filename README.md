@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on my first SaaS: [FeedSubscription.com][0]. It’s tagline is **Uncomplicated content distribution for Bloggers**, and I intend to extend the audience in the near future. 😇 — If you’re interested and want to follow my progress, you can follow [the project blog here][3]. 🤓
+🌱 I’m currently working on my first SaaS: [FeedSubscription.com][0]. It’s tagline is **Uncomplicated content distribution for Bloggers**, and I intend to extend the audience in the near future. 😇 — If you’re interested and want to follow my progress, you can follow [the project blog here][3]. 🤓
 
 To learn more about marketing and sales, I’m reading “[Founding Sales][4]: Sales for founders (and others) in first-time sales roles” by Pete Kazanjy. I have mixed feelings about the material, and I think that is a good thing. 🙂
 
-- 📧 How to reach me: gurdiga@gmail.com.
+- 📧 Reach me at gurdiga@gmail.com.
 - ✍️ I’m writing at [gurdiga.com][1] — it got a face-lift recently, so do check it out. 😎
 
 [0]: https://feedsubscription.com/?from=github-profile
