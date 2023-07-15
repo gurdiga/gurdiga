@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on my first SaaS: [FeedSubscription.com][0]. It’s tagline is **Uncomplicated content distribution for Bloggers**, and I intend to extend the audience in the near future. 😇 — If you’re interested and want to follow my progress, you can follow [the blog here][3]. 🤓
+- 🌱 I’m currently working on my first SaaS: [FeedSubscription.com][0]. It’s tagline is **Uncomplicated content distribution for Bloggers**, and I intend to extend the audience in the near future. 😇 — If you’re interested and want to follow my progress, you can follow [the project blog here][3]. 🤓
 
 - 🤔 I’m looking for help with ideas on how to better market it.
 - 📧 How to reach me: gurdiga@gmail.com.
